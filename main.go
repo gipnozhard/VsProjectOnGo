@@ -61,8 +61,8 @@ func main() {
 	/*file, _ := os.Open("/home/pavel/Рабочий стол/num.md")
 	  file2, _ := os.Open("/home/pavel/Рабочий стол/num1.md")*/
 
-	file := "/home/pavel/Рабочий стол/num.md"
-	file2 := "/home/pavel/Рабочий стол/num1.md"
+	file := "files/num.md"
+	file2 := "files/num1.md"
 
 	/*defer file.Close()
 	  defer file2.Close()
